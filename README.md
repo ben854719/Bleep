@@ -2,7 +2,7 @@ Summary:
 
 The project is name Bleep from the department of Re-education (Codecademy). I will show you the use of the computer language C++ to build an algorithm that can bleep out any words deemed unsavory by the departmment of re-education. I will write a bleep.cpp program that “bleeps” any words that passed through the program. I will assess the word "broccoli" which has been banned by the department.
 
-Computer skill: 
+Computer skill: C++
 
 Reference:
 
